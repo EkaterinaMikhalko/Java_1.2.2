@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Issue] (https://github.com/EkaterinaMikhalko/Java_1.2.2/issues/1)
+* [Issue](https://github.com/EkaterinaMikhalko/Java_1.2.2/issues/1)
 
 ## Описание процесса тестирования
 
